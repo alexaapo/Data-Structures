@@ -1,0 +1,18 @@
+/insertPatientRecord 10000 James Fisher MERS-COV USA 21-01-2015 -
+/insertPatientRecord 45 Chase Vance EVD Russia 30-04-2018 
+
+
+/recordPatientExit 90 -
+
+/globalDiseaseStats 01-01-2004 01-01-2009
+/globalDiseaseStats
+/globalDiseaseStats - 11-08-2000
+/globalDiseaseStats 11-08-2000 11-08-2000 11-08-2000
+/globalDiseaseStats 29-05-2009 -
+
+/diseaseFrequency FLU-2018 01-01-2000 - 
+/diseaseFrequency COVID-2019 30-05-2009 - Denmar1k
+/diseaseFrequency 
+
+
+/numCurrentPatients FLU-2018
