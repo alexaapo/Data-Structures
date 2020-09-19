@@ -1,5 +1,5 @@
 # Project I in Data-Structures
-I implement a set of structures (hash tables, linked lists, binary trees) that allow the entry and queries in a large volume of records in patientRecord type.
+I implement a set of structures (hash tables, linked lists, binary trees, max heap) that allow the entry and queries in a large volume of records in patientRecord type.
 
 One example of patient record is: 
 889 Mary Smith COVID-2019 China 25-1-2019 27-1-2019
