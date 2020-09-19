@@ -1,4 +1,4 @@
-# Project in Data-Structures
+# Project I in Data-Structures
 I implement a set of structures (hash tables, linked lists, binary trees) that allow the entry and queries in a large volume of records in patientRecord type.
 
 One example of patient record is: 
@@ -57,4 +57,12 @@ patients still being treated.
 
 ● /exit
 Exit the application. Make sure you release all the free memory properly.
-Structures
+
+The data structures that I used has the following architecture:
+
+![Screenshot from 2020-09-19 11-06-39](https://user-images.githubusercontent.com/60033683/93662409-8568c480-fa68-11ea-9b1a-d5293451f932.png)
+
+## Execution:
+ 1) **make**
+ 2) **./diseaseMonitor -p patientRecordsFile (i.e small.txt) -h1 diseaseHashtableNumOfEntries (i.e 10) -h2 countryHashtableNumOfEntries (i.e 10) -b bucketSize (i.e 20)**
+ 3) **make clean**
